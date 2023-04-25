@@ -1,2 +1,2 @@
-# projetos_dio
-Versionamento dos arquivos referente ao bootcamp da DIO: TQI Fullstack Developer
+# Projetos_dio
+Versionamento dos arquivos referente ao bootcamps da DIO.
